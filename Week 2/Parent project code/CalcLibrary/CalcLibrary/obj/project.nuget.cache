@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aJEk9DGtwh0r8pF6pXN8QjzrsMF1K9kG3ucW39Sb6CT24bni8aEWIkLfXAlQFwB/cI8jJ7S8LPrMmQ+4kNippQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 2\\Parent project code\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KIIT\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\KIIT\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
