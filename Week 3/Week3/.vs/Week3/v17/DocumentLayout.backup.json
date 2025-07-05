@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 3\\Week3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5FA9FC-7524-4E59-9FED-0ED51397731C}|RetailInventorySystem\\RetailInventorySystem.csproj|c:\\users\\kiit\\desktop\\cognizant-hands-on-solutions\\week 3\\week3\\retailinventorysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5FA9FC-7524-4E59-9FED-0ED51397731C}|RetailInventorySystem\\RetailInventorySystem.csproj|solutionrelative:retailinventorysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5FA9FC-7524-4E59-9FED-0ED51397731C}|RetailInventorySystem\\RetailInventorySystem.csproj|c:\\users\\kiit\\desktop\\cognizant-hands-on-solutions\\week 3\\week3\\retailinventorysystem\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5FA9FC-7524-4E59-9FED-0ED51397731C}|RetailInventorySystem\\RetailInventorySystem.csproj|solutionrelative:retailinventorysystem\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5FA9FC-7524-4E59-9FED-0ED51397731C}|RetailInventorySystem\\RetailInventorySystem.csproj|c:\\users\\kiit\\desktop\\cognizant-hands-on-solutions\\week 3\\week3\\retailinventorysystem\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5FA9FC-7524-4E59-9FED-0ED51397731C}|RetailInventorySystem\\RetailInventorySystem.csproj|solutionrelative:retailinventorysystem\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A5FA9FC-7524-4E59-9FED-0ED51397731C}|RetailInventorySystem\\RetailInventorySystem.csproj|c:\\users\\kiit\\desktop\\cognizant-hands-on-solutions\\week 3\\week3\\retailinventorysystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A5FA9FC-7524-4E59-9FED-0ED51397731C}|RetailInventorySystem\\RetailInventorySystem.csproj|solutionrelative:retailinventorysystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 3\\Week3\\RetailInventorySystem\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RetailInventorySystem\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 3\\Week3\\RetailInventorySystem\\AppDbContext.cs",
+              "RelativeToolTip": "RetailInventorySystem\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T09:51:48.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 3\\Week3\\RetailInventorySystem\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "RetailInventorySystem\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 3\\Week3\\RetailInventorySystem\\Models\\Category.cs",
+              "RelativeToolTip": "RetailInventorySystem\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T09:51:05.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 3\\Week3\\RetailInventorySystem\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "RetailInventorySystem\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 3\\Week3\\RetailInventorySystem\\Models\\Product.cs",
+              "RelativeToolTip": "RetailInventorySystem\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T09:50:42.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 3\\Week3\\RetailInventorySystem\\Program.cs",
+              "RelativeDocumentMoniker": "RetailInventorySystem\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 3\\Week3\\RetailInventorySystem\\Program.cs*",
+              "RelativeToolTip": "RetailInventorySystem\\Program.cs*",
+              "ViewState": "AgIAACUAAAAAAAAAAADwvykAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T09:46:36.697Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
