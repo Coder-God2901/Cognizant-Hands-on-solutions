@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 4\\Week-4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87173880-215A-4E9E-8145-77CEE9349EF6}|MyFirstWebAPI\\MyFirstWebAPI.csproj|c:\\users\\kiit\\desktop\\cognizant-hands-on-solutions\\week 4\\week-4\\myfirstwebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87173880-215A-4E9E-8145-77CEE9349EF6}|MyFirstWebAPI\\MyFirstWebAPI.csproj|solutionrelative:myfirstwebapi\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87173880-215A-4E9E-8145-77CEE9349EF6}|MyFirstWebAPI\\MyFirstWebAPI.csproj|c:\\users\\kiit\\desktop\\cognizant-hands-on-solutions\\week 4\\week-4\\myfirstwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87173880-215A-4E9E-8145-77CEE9349EF6}|MyFirstWebAPI\\MyFirstWebAPI.csproj|solutionrelative:myfirstwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87173880-215A-4E9E-8145-77CEE9349EF6}|MyFirstWebAPI\\MyFirstWebAPI.csproj|c:\\users\\kiit\\desktop\\cognizant-hands-on-solutions\\week 4\\week-4\\myfirstwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87173880-215A-4E9E-8145-77CEE9349EF6}|MyFirstWebAPI\\MyFirstWebAPI.csproj|solutionrelative:myfirstwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87173880-215A-4E9E-8145-77CEE9349EF6}|MyFirstWebAPI\\MyFirstWebAPI.csproj|c:\\users\\kiit\\desktop\\cognizant-hands-on-solutions\\week 4\\week-4\\myfirstwebapi\\myfirstwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{87173880-215A-4E9E-8145-77CEE9349EF6}|MyFirstWebAPI\\MyFirstWebAPI.csproj|solutionrelative:myfirstwebapi\\myfirstwebapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87173880-215A-4E9E-8145-77CEE9349EF6}|MyFirstWebAPI\\MyFirstWebAPI.csproj|c:\\users\\kiit\\desktop\\cognizant-hands-on-solutions\\week 4\\week-4\\myfirstwebapi\\logs\\exceptions.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{87173880-215A-4E9E-8145-77CEE9349EF6}|MyFirstWebAPI\\MyFirstWebAPI.csproj|solutionrelative:myfirstwebapi\\logs\\exceptions.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87173880-215A-4E9E-8145-77CEE9349EF6}|MyFirstWebAPI\\MyFirstWebAPI.csproj|c:\\users\\kiit\\desktop\\cognizant-hands-on-solutions\\week 4\\week-4\\myfirstwebapi\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87173880-215A-4E9E-8145-77CEE9349EF6}|MyFirstWebAPI\\MyFirstWebAPI.csproj|solutionrelative:myfirstwebapi\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87173880-215A-4E9E-8145-77CEE9349EF6}|MyFirstWebAPI\\MyFirstWebAPI.csproj|c:\\users\\kiit\\desktop\\cognizant-hands-on-solutions\\week 4\\week-4\\myfirstwebapi\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87173880-215A-4E9E-8145-77CEE9349EF6}|MyFirstWebAPI\\MyFirstWebAPI.csproj|solutionrelative:myfirstwebapi\\filters\\customauthfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87173880-215A-4E9E-8145-77CEE9349EF6}|MyFirstWebAPI\\MyFirstWebAPI.csproj|c:\\users\\kiit\\desktop\\cognizant-hands-on-solutions\\week 4\\week-4\\myfirstwebapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87173880-215A-4E9E-8145-77CEE9349EF6}|MyFirstWebAPI\\MyFirstWebAPI.csproj|solutionrelative:myfirstwebapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87173880-215A-4E9E-8145-77CEE9349EF6}|MyFirstWebAPI\\MyFirstWebAPI.csproj|c:\\users\\kiit\\desktop\\cognizant-hands-on-solutions\\week 4\\week-4\\myfirstwebapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87173880-215A-4E9E-8145-77CEE9349EF6}|MyFirstWebAPI\\MyFirstWebAPI.csproj|solutionrelative:myfirstwebapi\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87173880-215A-4E9E-8145-77CEE9349EF6}|MyFirstWebAPI\\MyFirstWebAPI.csproj|c:\\users\\kiit\\desktop\\cognizant-hands-on-solutions\\week 4\\week-4\\myfirstwebapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87173880-215A-4E9E-8145-77CEE9349EF6}|MyFirstWebAPI\\MyFirstWebAPI.csproj|solutionrelative:myfirstwebapi\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{87173880-215A-4E9E-8145-77CEE9349EF6}|MyFirstWebAPI\\MyFirstWebAPI.csproj|c:\\users\\kiit\\desktop\\cognizant-hands-on-solutions\\week 4\\week-4\\myfirstwebapi\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87173880-215A-4E9E-8145-77CEE9349EF6}|MyFirstWebAPI\\MyFirstWebAPI.csproj|solutionrelative:myfirstwebapi\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyFirstWebAPI",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 4\\Week-4\\MyFirstWebAPI\\MyFirstWebAPI.csproj",
+              "RelativeDocumentMoniker": "MyFirstWebAPI\\MyFirstWebAPI.csproj",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 4\\Week-4\\MyFirstWebAPI\\MyFirstWebAPI.csproj",
+              "RelativeToolTip": "MyFirstWebAPI\\MyFirstWebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-13T17:36:07.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 4\\Week-4\\MyFirstWebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MyFirstWebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 4\\Week-4\\MyFirstWebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MyFirstWebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T17:29:22.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 4\\Week-4\\MyFirstWebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MyFirstWebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 4\\Week-4\\MyFirstWebAPI\\Program.cs",
+              "RelativeToolTip": "MyFirstWebAPI\\Program.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAswFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T11:10:18.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 4\\Week-4\\MyFirstWebAPI\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "MyFirstWebAPI\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 4\\Week-4\\MyFirstWebAPI\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "MyFirstWebAPI\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswAoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T14:28:11.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "exceptions.txt",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 4\\Week-4\\MyFirstWebAPI\\Logs\\exceptions.txt",
+              "RelativeDocumentMoniker": "MyFirstWebAPI\\Logs\\exceptions.txt",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 4\\Week-4\\MyFirstWebAPI\\Logs\\exceptions.txt",
+              "RelativeToolTip": "MyFirstWebAPI\\Logs\\exceptions.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-13T16:54:19.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 4\\Week-4\\MyFirstWebAPI\\Filters\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "MyFirstWebAPI\\Filters\\CustomExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 4\\Week-4\\MyFirstWebAPI\\Filters\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "MyFirstWebAPI\\Filters\\CustomExceptionFilter.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T15:27:00.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CustomAuthFilter.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 4\\Week-4\\MyFirstWebAPI\\Filters\\CustomAuthFilter.cs",
+              "RelativeDocumentMoniker": "MyFirstWebAPI\\Filters\\CustomAuthFilter.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 4\\Week-4\\MyFirstWebAPI\\Filters\\CustomAuthFilter.cs",
+              "RelativeToolTip": "MyFirstWebAPI\\Filters\\CustomAuthFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T15:16:00.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 4\\Week-4\\MyFirstWebAPI\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "MyFirstWebAPI\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 4\\Week-4\\MyFirstWebAPI\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "MyFirstWebAPI\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T10:49:40.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 4\\Week-4\\MyFirstWebAPI\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "MyFirstWebAPI\\Models\\Skill.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 4\\Week-4\\MyFirstWebAPI\\Models\\Skill.cs",
+              "RelativeToolTip": "MyFirstWebAPI\\Models\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T14:27:46.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 4\\Week-4\\MyFirstWebAPI\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "MyFirstWebAPI\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 4\\Week-4\\MyFirstWebAPI\\Models\\Department.cs",
+              "RelativeToolTip": "MyFirstWebAPI\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T14:27:31.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 4\\Week-4\\MyFirstWebAPI\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "MyFirstWebAPI\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\KIIT\\Desktop\\Cognizant-Hands-on-solutions\\Week 4\\Week-4\\MyFirstWebAPI\\Models\\Employee.cs",
+              "RelativeToolTip": "MyFirstWebAPI\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T14:27:00.502Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
